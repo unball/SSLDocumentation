@@ -1,11 +1,15 @@
-Tipos de trafego de dados 
+# Comunicação
 
-Wireless 
+## Wireless
 
-WiFi 
+### Quais opções temos? Por que vamos usar WiFi?
 
-Por que vamos usar wifi? 
+### WiFi
 
-I2C 
+## Serial
 
-ESP central para ESP perifericas 
+### I2C
+
+### SPI
+
+### PWM
