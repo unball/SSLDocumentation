@@ -58,10 +58,10 @@ Buscamos responder as seguintes perguntas do livro _Introduction to autonomous r
     > R.: Em um carpete que será posicionado em cima de uma superfície plana. As dimensões do carpete segue as regras da categoria SSL 
 
 - Como a velocidade das rodas afeta sua posição e velocidade no mundo?  
-    > R.: Aqui definimos a cinemática do robô. Isso é detalhado no arquivo [Movimentacao-robo-omni.md](Movimentacao-robo-omni.md)
+    > R.: Aqui definimos a cinemática do robô. Isso é detalhado no arquivo [Cinemática](./Cinematica/Cinematica-robo.md)
 
 - Como podemos controlar a velocidade das rodas para atingir uma determinada posição? 
-    > R.: Aqui definimos a forma como vai funcionar a Navegação do Robô. Isso é feito na Estratégia. Os detalhes da Estratégia como qual método de navegação vamos usar e qual sistema de decisão vamos aplicar pode ser visto em [Navegação](./Navegacao.md) e [Decisão](./Decisao.md), respectivamente.
+    > R.: Aqui definimos a forma como vai funcionar a Navegação do Robô. Isso é feito na Estratégia. Os detalhes da Estratégia como qual método de navegação vamos usar e qual sistema de decisão vamos aplicar pode ser visto em [Navegação](./Estrategia/Navegacao.md) e [Decisão](./Estrategia/Decisao.md), respectivamente.
 
 - Quais sensores o robô usará pra perceber seu próprio estado no mundo? 
     > R.: A princípio, somente as câmeras posicionadas acima do campo. 
@@ -70,4 +70,4 @@ Buscamos responder as seguintes perguntas do livro _Introduction to autonomous r
     > R.: Através do Sistema de Visão Computacional Unificado gerido pela organização da categoria SSL. 
 
 - Como o erro da sua percepção no mundo pode ser representado e como lidar diante de situações incertas? 
-    > R.: Isso vai ser detalhado em [Navegação](./Navegacao.md) e [Decisão](./Decisao.md).
+    > R.: Isso vai ser detalhado em [Navegação](./Estrategia/Navegacao.md) e [Decisão](./Estrategia/Decisao.md).
