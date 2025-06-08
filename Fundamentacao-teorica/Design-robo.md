@@ -1,6 +1,6 @@
 # Design do robô
 
-## Limitações no design advindo das regras do SSL
+## Limitações no design advindas das regras do SSL
 
 ### Tamanho 
 
