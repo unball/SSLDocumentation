@@ -5,19 +5,22 @@ O sistema é desenvolvido seguindo as regras da categoria [Robocup Small Size Le
 
 Diante desse cenário, temos que o sistema pode ser representado da seguinte forma:
 
-![Desenho simplificado do sistema do Small Size League](./Imagens/Diagramas-SSL-sistema.png)
+![Desenho simplificado do sistema do Small Size League](./Diagramas/Diagramas-SSL-sistema.png)
 
 O sistema conta com:
 
+<!-- TODO: incluir quais cameras sao geralmente usadas -->
 1 - Sistema de Visão
 
 - Duas câmeras posicionadas acima do campo
 - Software de visão computacional unificado, que processa as informações lidas pelas câmeras e envia para os Sistemas de Software das equipes
 
+<!-- TODO: incluir referencia para os repositorios do SSL -->
 2 - Sistema SSL
 
 - Consiste do Software de Visão Computacional e do Game Controller
 
+<!-- TODO: incluir link para os softwares da equipe -->
 3 - Sistema de software da Equipe
 
 - Recebe as informações processadas pelo Sistema de Visão. No caso da Equipe UnBall, ao receber as informações, processa a navegação e decide a ação de cada robô do time naquele momento. A decisão é enviada, então, para cada robô via comunicação wireless. No desenho, essa comunicação se dá por WiFi, mas pode ser de outros tipos desde que atenda às regras da categoria.
