@@ -1,5 +1,7 @@
 # Cinemática
 
+<!-- TODO: o que é a cinematica e por que vamos precisar dela?  -->
+
 ## Definir configuração das rodas do robô
 
 ### Possíveis configurações do robô omnidirecional 
