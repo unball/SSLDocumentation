@@ -7,3 +7,6 @@
     - [Rodas](./Rodas/Estudo-tipo-rodas.md)
     - [Cinemática](./Cinematica/Cinematica-robo.md)
     - [Comunicação](./Comunicacao/Comunicacao.md)
+
+## A incluir:
+- Sistema de chute
