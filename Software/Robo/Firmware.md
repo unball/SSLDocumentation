@@ -69,3 +69,8 @@ PC -> roteador -> firmware central -> firmware periferico
 # Visão
 
 # Estratégia
+
+
+https://github.com/makerbase-motor/MKS-ESP32FOC/blob/MKS-ESP32-FOC-V2.0/Test%20Code/Read%20Before%20You%20Begin.txt 
+    ② The open-loop control mode is a test routine, and the heating of the motor is inevitable. Be careful not to get burned!
+Please do not run the open-loop routine for more than one minute, otherwise it will cause overheating and burn the motor or circuit board!
