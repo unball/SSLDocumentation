@@ -52,3 +52,7 @@ Rodas mecanum como se fosse um carro:
 ## Formulação matemática
 
 <!-- TODO: incluir formulas da cinematica do robo  -->
+
+> Referência: [Omnidirectional Control](../../Bibliografia/artigos/omnidrive.pdf)
+
+![Robô assimétrico](./assimetric-robot.png)
