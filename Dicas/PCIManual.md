@@ -22,7 +22,7 @@ A fabricação pode seguir um dos seguintes tutoriais:
 - [FunBots: COMO FAZER UMA PCB DUPLA FACE | PCI Caseira e simples com Acetona](https://www.youtube.com/watch?v=V0aOzRYOyko)
 
 
-É possível fabricar PCIs com solda reflow:
+:information_source: É possível fabricar PCIs com solda reflow:
 
 - [FunBots - Como fazer pcb com solda reflow (manualmente)](https://www.youtube.com/watch?v=JNrhAweeBnA&list=PLEkoGrN4bx1C-09VuAwZD36ZT5E8RC5Pc&index=6)
 
