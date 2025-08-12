@@ -48,7 +48,6 @@ Diz respeito a funcionalidade do robô de poder "chutar" a bola. Para isso, prec
 
 ## Referência
 
-<!-- TODO: arrumar referencia pro livro -->
 Buscamos responder as seguintes perguntas do livro _Introduction to autonomous robots_: 
 
 - Como ele se move?
@@ -64,7 +63,7 @@ Buscamos responder as seguintes perguntas do livro _Introduction to autonomous r
     > R.: Aqui definimos a forma como vai funcionar a Navegação do Robô. Isso é feito na Estratégia. Os detalhes da Estratégia como qual método de navegação vamos usar e qual sistema de decisão vamos aplicar pode ser visto em [Navegação](./Estrategia/Navegacao.md) e [Decisão](./Estrategia/Decisao.md), respectivamente.
 
 - Quais sensores o robô usará pra perceber seu próprio estado no mundo? 
-    > R.: A princípio, somente as câmeras posicionadas acima do campo. 
+    > R.: As câmeras posicionadas acima do campo dirão sua posição. O giroscópio mede sua orientação em relação ao proprio eixo e o sensor infravermelho irá confirmar se a bola está perto do robô ou não 
 
 - Como extrair informações de seus sensores?
     > R.: Através do Sistema de Visão Computacional Unificado gerido pela organização da categoria SSL. 
